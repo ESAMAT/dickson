@@ -1,0 +1,158 @@
+nav.mycolor{
+	background:#888888;
+	position:fixed;
+	top:0px;
+	left: 0px;
+	width: 100%;
+	padding-top:0px;
+	padding-bottom:0px;
+	margin-top: 0px;
+}
+.scrolleffect{
+	background:#8888886b;
+	position:fixed;
+	top:0px;
+	left: 0px;
+	width: 100%;
+	height: 80px;
+	padding-top:0px;
+	padding-bottom:0px;
+	margin-top: 0px;
+}
+nav ul{
+	margin:0px auto;
+}
+nav ul li{
+	margin:25px;	
+}
+nav ul li a{
+	color:#ffffff;
+	text-align: center;
+	font-size:120%;
+	background:black;
+	border-radius: 10px;
+	padding-left:15px ;
+	padding-right:55px ;
+}
+.bg_color{
+	background: red;
+	color: #000000;
+}
+nav ul li a:hover{
+	background-color:#ffffff;
+	border-radius:10px;
+}
+nav img  {
+	height:50px;
+	width: 100px;
+	padding:2px;	
+}
+.bgChange{
+	background:#ffffff;
+}
+div.mybody{
+	margin-top:;
+}
+.social_position {
+	position:fixed;
+	right: 0px;
+	top:150px;
+	z-index: 1;
+	font-size: 40px;
+}
+.social_icon1 a{
+	text-decoration: none;
+	color:#000;
+}
+.social_icon2 a{
+	text-decoration: none;
+	color:blue;
+}
+.social_icon3 a{
+	text-decoration: none;
+	color: green;
+}
+.social_icon4 a{
+	text-decoration: none;
+	color:purple;
+}
+.social:hover{
+	opacity:0.6;
+}
+.mybody{
+	background:url(../images/car0.png);
+	background-size: cover;
+	z-index: -1;
+}
+.card_position{
+	margin-top: 140px;
+	margin-bottom: 0px;
+	color:#ffffff;
+	background:#dc354554;
+	font-weight: bold;
+	border:1px solid transparent;
+}
+.card-body{
+	text-align: center;
+}
+.card-header{
+	background:#17a2b8;
+}
+.card-body img{
+	width: 100%;
+	height: auto;
+	margin-bottom: 20px;
+}
+.btn-below{
+	background:#17a2b8;
+}
+.btn-below:hover{
+	background: #ffffff;
+}
+.mycard_footer ul li a{
+    color:#ffffff;
+    text-decoration: none;
+}
+.mycard_footer ul li a:hover{
+	color: #17a2b8;
+}
+.myleft{
+	margin-left: 145px;
+}
+.myright{
+	margin-right: 145px;
+}
+.myfooter{
+	text-align: center;
+	font-weight: bold;
+	background:#888888;
+	color:#000;
+}
+.footer_links ul{
+	list-style: none;
+}
+.footer_links ul li a{
+	text-decoration: none;
+	color:#1373d4;
+}
+.footer_links ul li a:hover{
+	color:#ffffff;
+} 
+.footer_col_1{
+	margin-top:50px;
+}
+.footer_contacts{
+	margin-top: 25px;
+}
+.footer_col_3 {
+	margin-top: 25px;
+	margin-bottom: 0px;
+}
+.footer_slogan {
+	margin-top:25px;
+	font-size:30px;
+}
+.copyright a{
+	text-decoration:none;
+	color:#000;
+}
